@@ -1,0 +1,130 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#cv{
+    text-align:center;
+    text-transform:uppercase;
+    text-decoration:underline;
+    padding-top:20px;
+
+}
+#intro{
+    padding-left:30px;
+    padding-top:50px;
+    line-height:30px;
+}
+#name{
+    text-transform:uppercase;
+}
+
+#e-mail{
+    font-weight:600;
+}
+#e-maillink{
+    color:blue;
+    text-decoration:none;
+}
+#address{
+    font-weight:bold;
+    text-transform:uppercase;
+    text-decoration:underline;
+    padding-left:30px;
+
+}
+#house{
+    padding-left:30px;
+}
+#contact{
+    padding-left:30px;
+}
+.hr{
+    border-width:1px;
+    border-style:solid;
+}
+#co-div{
+    line-height:30px;
+    padding-left:30px;
+}
+#co{
+    text-transform:uppercase;
+    text-decoration:underline;
+    line-height:30px;
+    /*padding-left:30px;*/
+}
+#co-1{
+    line-height:20px;
+    margin-top:10px;
+}
+#quali-div{
+    
+    padding-left:30px;
+}
+#academic{
+    text-transform:uppercase;
+    text-decoration:underline;
+}
+#academic-list{
+    padding-top:20px;
+    line-height:25px;
+}
+#exp{
+    padding-left:30px;
+    text-transform:uppercase;
+    text-decoration:underline;
+}
+#exp-list{
+    padding-top:20px;
+    padding-left:30px;
+    line-height:20px;
+    line-height:25px;
+}
+#skill{
+    text-transform:uppercase;
+    text-decoration:underline;
+    padding-left:30px;
+}
+#skill-list{
+    padding-left:30px;
+    line-height:25px;
+}
+#personal{
+    text-transform:uppercase;
+    text-decoration:underline;
+    padding-left:30px;
+}
+#personal-list{
+    padding-left:30px;
+    margin-top:20px;
+    line-height:25px;
+    
+}
+#insta{
+    height:80px;
+    width:80px;
+}
+#YT{
+    height:80px;
+    width:80px;
+
+}
+#social{
+    padding-left:30px;
+    text-transform:uppercase;
+    text-decoration:underline;
+}
+#social-list{
+    padding-left:30px;
+    display:inline;
+    
+
+}
+#btech{
+    text-decoration:none;
+    color:blue;
+}
+#twelve{
+    text-decoration:none;
+    color:blue;
+}
+
